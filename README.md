@@ -1,4 +1,4 @@
-# Hwmk-3: Random Password Generator
+# Random Password Generator
 
 ## Description
 This project is my submission for Module 3's homework on Javascript. This project is a random password generator that lets the user choose what kind of characters and how many characters to include in the password.
